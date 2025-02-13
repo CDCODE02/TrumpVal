@@ -6,7 +6,7 @@ html,
 body {
   overflow-x: hidden;
   font-family: "Archivo Black";
-  background-color: #b73e43;
+  background-color: #c00000;
 }
 @keyframes customBounce {
   30% {
